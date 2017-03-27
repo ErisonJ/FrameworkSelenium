@@ -1,0 +1,12 @@
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\TestPage.dll
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\TestPage.pdb
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\FrameworkAmazon.dll
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\WebDriver.dll
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\FrameworkAmazon.pdb
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\WebDriver.xml
+C:\practicando\FrameworkAmazon\TestPage\obj\Debug\TestPage.csprojResolveAssemblyReference.cache
+C:\practicando\FrameworkAmazon\TestPage\obj\Debug\TestPage.dll
+C:\practicando\FrameworkAmazon\TestPage\obj\Debug\TestPage.pdb
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\WebDriver.Support.dll
+C:\practicando\FrameworkAmazon\TestPage\bin\Debug\WebDriver.Support.xml

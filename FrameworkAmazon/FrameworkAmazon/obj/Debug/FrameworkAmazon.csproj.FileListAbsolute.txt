@@ -1,0 +1,9 @@
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\FrameworkAmazon.dll
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\FrameworkAmazon.pdb
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\WebDriver.dll
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\WebDriver.Support.dll
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\WebDriver.xml
+C:\practicando\FrameworkAmazon\FrameworkAmazon\bin\Debug\WebDriver.Support.xml
+C:\practicando\FrameworkAmazon\FrameworkAmazon\obj\Debug\FrameworkAmazon.csprojResolveAssemblyReference.cache
+C:\practicando\FrameworkAmazon\FrameworkAmazon\obj\Debug\FrameworkAmazon.dll
+C:\practicando\FrameworkAmazon\FrameworkAmazon\obj\Debug\FrameworkAmazon.pdb
